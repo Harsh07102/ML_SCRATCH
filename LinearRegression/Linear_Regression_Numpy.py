@@ -1,5 +1,4 @@
 import numpy as np
-
 class LinearRegression:
     def __init__(self,lr=0.001,n_iter=1000):
         self.lr = lr
